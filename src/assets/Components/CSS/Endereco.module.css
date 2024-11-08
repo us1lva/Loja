@@ -1,0 +1,9 @@
+#mapa{
+    position: relative;
+    width: 43%;
+    height: 80%;
+    top: 30px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    left: 60px;
+   }
